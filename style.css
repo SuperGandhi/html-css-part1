@@ -1,4 +1,8 @@
-h1 {
+.main-title{
+ padding-left: 30px;
+}
+
+.title-center{
  text-align: center;
  background-color: aliceblue;
 }
@@ -25,9 +29,6 @@ img{
  padding: 30px;
 }
 
-h2{
- text-align: center;
-}
 
 .items{
   font-style: italic;
