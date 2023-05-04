@@ -3,10 +3,31 @@ h1 {
  background-color: aliceblue;
 }
 
+.main{
+ background-color: #ccc;
+}
+
 p{
  background-color: bisque;
 }
 
 body{
  background-color: #ccc;
+}
+
+img{
+ width: 100%;
+}
+
+
+.diferenciales{
+ background-color: aqua;
+}
+
+h2{
+ text-align: center;
+}
+
+.items{
+  font-style: italic;
 }
