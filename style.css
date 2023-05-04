@@ -5,6 +5,7 @@ h1 {
 
 .main{
  background-color: #ccc;
+ padding: 20px;
 }
 
 p{
@@ -19,9 +20,9 @@ img{
  width: 100%;
 }
 
-
 .diferenciales{
  background-color: aqua;
+ padding: 30px;
 }
 
 h2{
@@ -30,4 +31,15 @@ h2{
 
 .items{
   font-style: italic;
+}
+
+ul{
+ display: inline-block;
+ vertical-align: top;
+ width: 20%;
+ margin-right: 15%;
+}
+
+.imagen-diferenciada{
+ width: 50%;
 }
